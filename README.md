@@ -4,7 +4,23 @@
 
 This project is an end-to-end Power BI Dashboard developed to analyze IPL 2025 performance across teams, players, venues, and the final match.
 
-The dashboard provides interactive insights into batting, bowling, team performance, tournament overview, and final match analysis using Power BI, DAX, Data Modeling, Drillthrough, and Tooltips.
+## Project Highlights
+
+✅ 7 Dashboard Pages
+
+✅ 15+ DAX Measures
+
+✅ Data Modeling
+
+✅ Drillthrough Analysis
+
+✅ Report Tooltips
+
+✅ Interactive Slicers
+
+✅ Conditional Formatting
+
+✅ Dark Theme Dashboard Design
 
 ---
 
