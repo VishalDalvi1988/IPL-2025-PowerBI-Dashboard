@@ -40,7 +40,7 @@ The dashboard provides interactive insights into batting, bowling, team performa
 - Team Contribution Analysis
 - Player Performance Insights
 
-![Batting Analysis](images/Batting%20Analysis.png)
+![Batting Analysis](Batting%20Analysis.png)
 
 ---
 
@@ -50,7 +50,7 @@ The dashboard provides interactive insights into batting, bowling, team performa
 - Economy vs Wickets Scatter Chart
 - Bowling Performance Metrics
 
-![Bowling Analysis](images/Bowling%20Analysis.png)
+![Bowling Analysis](Bowling%20Analysis.png)
 
 ---
 
@@ -61,7 +61,7 @@ The dashboard provides interactive insights into batting, bowling, team performa
 - Historical Titles Won
 - Net Run Rate Analysis
 
-![Team Analysis](images/Team%20Analysis.png)
+![Team Analysis](Team%20Analysis.png)
 
 ---
 
@@ -72,7 +72,7 @@ The dashboard provides interactive insights into batting, bowling, team performa
 - Winning Margin
 - Final Score Comparison
 
-![Final Match Dashboard](images/Final%20match%20Summary.png)
+![Final Match Dashboard](Final%20match%20Summary.png)
 
 ---
 
