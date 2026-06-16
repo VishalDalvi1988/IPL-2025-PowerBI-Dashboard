@@ -29,7 +29,7 @@ The dashboard provides interactive insights into batting, bowling, team performa
 - Venue Analysis
 - Toss Analysis
 
-![Tournament Overview](images/IPL%202025%20Tournament%20Overview.png)
+![Tournament Overview](IPL%202025%20Tournament%20Overview.png)
 
 ---
 
